@@ -22,7 +22,7 @@ Currently studying Data Science (more than a year).
 
 I spend all my free time on programming and studying.
 
-mailbox:How to reach me: mazepas90@gmail.com
+ :mailbox:How to reach me: mazepas90@gmail.com
 
 
 ---
@@ -39,6 +39,8 @@ mailbox:How to reach me: mazepas90@gmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  
 </div>
 
 
