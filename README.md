@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges"  align="center">
   <a href="https://vk.com/mazepas">
     <img src="https://komarev.com/ghpvc/?username=Mazepov&style=flat-square&color=blue" alt=""/>
   </a>
