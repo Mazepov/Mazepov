@@ -22,6 +22,8 @@ Currently studying Data Science (more than a year).
 
 I spend all my free time on programming and studying.
 
+I'm ready to work for free with real data.
+
  :mailbox:How to contact me: mazepas90@gmail.com
 
 
