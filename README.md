@@ -3,11 +3,8 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://vk.com/mazepas">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=Mazepov&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
