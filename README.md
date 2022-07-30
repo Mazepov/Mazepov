@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="linkedin.com/in/sergey-mazepov-609b57246">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <div id="badges"  align="center">
   <a href="https://vk.com/mazepas">
     <img src="https://komarev.com/ghpvc/?username=Mazepov&style=flat-square&color=blue" alt=""/>
