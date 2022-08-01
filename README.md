@@ -10,6 +10,11 @@
 
 <div id="badges"   align="center">
   <a href="https://vk.com/mazepas">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logoColor=white" alt=""/>
+  </a>
+</div>
+
+<div id="badges"   align="center">
     <img src="https://komarev.com/ghpvc/?username=Mazepov&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
